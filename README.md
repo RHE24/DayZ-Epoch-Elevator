@@ -15,3 +15,11 @@ This script is written by AxeCop and only placed here for an easy download in my
 	//elevator
 	["elevator"] execVM "elevator\elevator_init.sqf";
 	~~~~
+
+1. Create a custom variables file like you would with a custom compiles
+1. Change the directory in init.sqf for the variables file to the new custom variables
+1. Add the following at the end of dayz_allowedObjects:
+
+	~~~~java
+	,"Metal_Floor_Preview_DZ"
+	~~~~
