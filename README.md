@@ -21,5 +21,5 @@ This script is written by AxeCop and only placed here for an easy download in my
 1. Add the following at the end of dayz_allowedObjects:
 
 	~~~~java
-	,"Metal_Floor_Preview_DZ"
+	,"MetalFloor_Preview_DZ"
 	~~~~
